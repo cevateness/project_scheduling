@@ -1,4 +1,4 @@
-# resource_constrained_project_scheduling
+#  Project Scheduling Optimization with RCPSP
 A basic implementation of Resource-Constrained Project Scheduling Problem using PuLP
 
 
